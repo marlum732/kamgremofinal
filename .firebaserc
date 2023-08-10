@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "kamgremo"
+  },
+  "targets": {},
+  "etags": {
+    "kamgremo": {
+      "extensionInstances": {}
+    }
+  }
+}
